@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 30px;
+    font-style: normal;
+}
+.descuento {
+    background-color:#1CD1B0;
+    height: 28px;
+    padding: 10px;
+    margin:0%;
+}
+.textoDescuento{
+    font-size:15px;
+    position: relative;
+    top: -10px;
+    left: 2px;
+}
+.heroes {
+    background-color:#00669F;
+    font-size: 40px;
+    height: 73px;
+    padding: 28px;
+    margin:0%;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+div h1{
+    font-size:40px;
+    position: relative;
+    top: -15px;
+}
+.background {
+    width: 300px;
+}
+.foto {
+    width: 122px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position:absolute;
+    top: 123px;
+    left: 89px;
+}
+div h3{
+    font-size: 30px;
+    font-size: 30px;
+    line-height: 35px;
+    position:relative;
+    top: 35px;
+}
+#corazon{
+    color:red;
+    font-size: 35px;
+    position: absolute;
+    top: 16px;
+    left: 21px;
+}
+.h3batman{
+    text-transform: uppercase;
+    line-height: 35px;
+}
+.batman1 {
+    background-color: #F3F3F3;
+    font-size: 16px;
+    text-align: center;
+    height: 529px;
+    width: 300px;
+    display:inline-block;
+    position: relative;
+    left: 32px;
+    top: 154px;
+    bottom: 192px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.harley {
+    background-color: #F3F3F3;
+    font-size: 16px;
+    text-align: center;
+    height: 529px;
+    width: 300px;
+    display:inline-block;
+    position: relative;
+    left: 65px;
+    top: 157px;
+    bottom: 192px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.batman2 {
+    background-color: #F3F3F3;
+    font-size: 16px;
+    text-align: center;
+    height: 529px;
+    width: 300px;
+    display:inline-block;
+    position: relative;
+    left: 100px;
+    top: 154px;
+    bottom: 192px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+p{
+    width: 267px;
+    height: 113px;
+    text-align: left;
+    position: relative;
+    left: 15px;
+    top: 15px;
+}
+button{
+    background-color: #00669F;
+    color: #F3F3F3;
+    font-size: 15px;
+    padding: 15px 35px;
+    position: relative;
+    top: 40px;
+    border:none;
+}
+footer {
+    background-color: #00669F;
+    position: relative;
+    height: 51px;
+    bottom:-300px;
+    vertical-align: middle;
+}
+footer div{
+    font-size: 16px;
+    color:#FFF9F9;
+    position:relative;
+    top: 16px;
+    left: 16px;
+}
